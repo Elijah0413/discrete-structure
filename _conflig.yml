@@ -2,4 +2,12 @@ title: Elijah She Yu Sheng
 logo: assets/img/love.jpg
 show_downloads: true
 theme: jekyll-theme-minimal
+markdown: kramdown
+github_username: Elijah0413
 color-: dark
+
+plugins:-jekyll-feed
+defaults:
+-scope:
+ path: "projects"
+ values: "post"
