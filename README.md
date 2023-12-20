@@ -50,7 +50,7 @@ Our adventure takes a graphical turn in Chapter 4 as we explore graph theory. Gr
 <details>
  <summary><h2>🚸About Chapter 5: Boolean Algebra and Computer Logic 🕹️</h2>
    <h3><p> <img align="left" width="50%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8vL7d100YfyQIfbu4R96Fx3Hf_QVCovXgNg&usqp=CAU" /></p>
- </h23></summary>
+ </h3></summary>
 
  Time to put on our virtual reality headsets and dive into Chapter 5 – the land of Boolean algebra and computer logic. Ever wondered how computers make decisions? Boolean algebra is the secret sauce! We'll decode binary mysteries, play with logic gates, and maybe even teach a computer to appreciate a good joke. After all, a bit of humor is always welcome in the digital world!
 
