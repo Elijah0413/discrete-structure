@@ -38,9 +38,9 @@ Now, let's add a dash of excitement with counting and probability! 🎉 We delve
 
 <details>
 
- <summary><h2>🚸About Chapter 4: Graph Theory 📊</h2>
-    <h3><p> <img align="left" width="50%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQixLSGNbdD69BHRxlzKqpsOlUtpPEu5yQejg&usqp=CAU" /></p>
- </h3></summary>
+ <summary><h2>🚸About Chapter 4: Graph Theory 📊
+    <p> <img align="left" width="50%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQixLSGNbdD69BHRxlzKqpsOlUtpPEu5yQejg&usqp=CAU" /></p>
+ </h2></summary>
 Our adventure takes a graphical turn in Chapter 4 as we explore graph theory. Graphs are not just for plotting data; they're the heart of connections, friendships, and journeys. Imagine nodes as cities and edges as the roads connecting them. We'll navigate paths, cross bridges, and discover the beauty of connectivity in this mathematical road trip.
 
 </details>
@@ -48,9 +48,9 @@ Our adventure takes a graphical turn in Chapter 4 as we explore graph theory. Gr
 
 
 <details>
- <summary><h2>🚸About Chapter 5: Boolean Algebra and Computer Logic 🕹️</h2>
-   <h3><p> <img align="left" width="50%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8vL7d100YfyQIfbu4R96Fx3Hf_QVCovXgNg&usqp=CAU" /></p>
- </h3></summary>
+ <summary><h2>🚸About Chapter 5: Boolean Algebra and Computer Logic 🕹️
+   <p> <img align="left" width="50%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8vL7d100YfyQIfbu4R96Fx3Hf_QVCovXgNg&usqp=CAU" /></p>
+   </h2></summary>
 
  Time to put on our virtual reality headsets and dive into Chapter 5 – the land of Boolean algebra and computer logic. Ever wondered how computers make decisions? Boolean algebra is the secret sauce! We'll decode binary mysteries, play with logic gates, and maybe even teach a computer to appreciate a good joke. After all, a bit of humor is always welcome in the digital world!
 
