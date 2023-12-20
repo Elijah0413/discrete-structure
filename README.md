@@ -1,7 +1,4 @@
- <h1><p> <img align="left" width="50%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs0gYTaDvkGKXuQJyqU03iroznppTMaLOKGQ&usqp=CAU" /></p></h1>
-
-
-
+\
 # Discrete Structure🥳🥳🥳
 
 
