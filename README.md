@@ -4,7 +4,7 @@
 
 # Discrete Structure🥳🥳🥳
 
-
+<b>
 <header>
  <details>
  <summary><h2>🚸About Chapter 1: Set Theory 🧑‍🏫</h2></summary>
@@ -55,3 +55,4 @@ Our journey through discrete structures is like building a mathematical masterpi
 </details>
 
 <header>
+</b>
