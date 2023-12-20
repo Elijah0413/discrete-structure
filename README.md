@@ -1,11 +1,11 @@
 
-
+<header>
 <details>
  <summary><h2>🚸About Chapter 1: Set Theory 🧑‍🏫</h2></summary>
 **Chapter 1: Set Theory 🧑‍🏫**
 In the first chapter of our discrete structures journey, we dive into the intriguing world of set theory. Imagine sets as little baskets holding mathematical goodies! 🧺 We explore the basics, from defining what a set is to performing set acrobatics with operations like union and intersection. It's like arranging a mathematical picnic where elements come together, forming relationships that set the stage for our entire adventure.
 #
-
+</details>
 
 
 <details>
