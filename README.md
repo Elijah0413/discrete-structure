@@ -6,7 +6,7 @@
  <details>
  <summary><h2>🚸About Chapter 1: Set Theory 🧑‍🏫</h2></summary>
 **Chapter 1: Set Theory 🧑‍🏫**
- <p> <img align="left" width="50%" src="https://blogassets.leverageedu.com/blog/wp-content/uploads/2020/03/11170948/Set-Theory-Formulas.png" /> </p>
+ <p> <img align="left" width="50%" src="https://blogassets.leverageedu.com/blog/wp-content/uploads/2020/03/11170948/Set-Theory-Formulas.png" /> 
 In the first chapter of our discrete structures journey, we dive into the intriguing world of set theory. Imagine sets as little baskets holding mathematical goodies! 🧺 We explore the basics, from defining what a set is to performing set acrobatics with operations like union and intersection. It's like arranging a mathematical picnic where elements come together, forming relationships that set the stage for our entire adventure.
 
  </details>
@@ -15,7 +15,7 @@ In the first chapter of our discrete structures journey, we dive into the intrig
 
 <details>
  <summary><h2>🚸About Chapter 2: Relation and Function 🤝🧑‍🏫</h2></summary>
-<p> <img align="left" width="50%" src="https://www.aplustopper.com/wp-content/uploads/2017/04/Definition-of-a-Relation-and-a-Function-1.png" /></p>
+<p> <img align="left" width="50%" src="https://www.aplustopper.com/wp-content/uploads/2017/04/Definition-of-a-Relation-and-a-Function-1.png" />
 Chapter 2 takes us into the realm of relations and functions, where math meets human connections! Think of functions as matchmakers, linking elements in unique ways. Relations, on the other hand, are the social network connections among elements. It's the math version of "it's not what you know, but who you know." We'll explore how these mathematical friendships play out and lay the groundwork for graph theory.
 
 </details>
