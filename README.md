@@ -27,9 +27,6 @@ Now, let's add a dash of excitement with counting and probability! 🎉 We delve
 #
 </details>
 
-</header>
-
-<header>
 
 
 #
@@ -51,5 +48,5 @@ Our journey through discrete structures is like building a mathematical masterpi
 
 </details>
 
-<header>
+</header>
 
