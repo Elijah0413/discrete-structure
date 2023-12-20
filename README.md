@@ -41,4 +41,4 @@ Our journey through discrete structures is like building a mathematical masterpi
 
 </details>
 <p> <img align="left" width="50%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8vL7d100YfyQIfbu4R96Fx3Hf_QVCovXgNg&usqp=CAU" />
-#
+
