@@ -1,10 +1,10 @@
- <p> <img align="left" width="50%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs0gYTaDvkGKXuQJyqU03iroznppTMaLOKGQ&usqp=CAU" /></p>
+ <h1><p> <img align="left" width="50%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs0gYTaDvkGKXuQJyqU03iroznppTMaLOKGQ&usqp=CAU" /></p></h1>
 
 
 
 # Discrete Structure🥳🥳🥳
 
-<b>
+
 <header>
  <details>
  <summary><h2>🚸About Chapter 1: Set Theory 🧑‍🏫</h2></summary>
@@ -55,4 +55,4 @@ Our journey through discrete structures is like building a mathematical masterpi
 </details>
 
 <header>
-</b>
+
