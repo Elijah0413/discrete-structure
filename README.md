@@ -6,7 +6,7 @@
 In the first chapter of our discrete structures journey, we dive into the intriguing world of set theory. Imagine sets as little baskets holding mathematical goodies! 🧺 We explore the basics, from defining what a set is to performing set acrobatics with operations like union and intersection. It's like arranging a mathematical picnic where elements come together, forming relationships that set the stage for our entire adventure.
 #
 </details>
-<p> <img align="right" width="15%" src="asset/img/design1.png" />
+<p> <img align="right" width="100%" src="https://blogassets.leverageedu.com/blog/wp-content/uploads/2020/03/11170948/Set-Theory-Formulas.png" />
 
 <details>
  <summary><h2>🚸About Chapter 2: Relation and Function 🤝🧑‍🏫</h2></summary>
