@@ -18,6 +18,7 @@ Chapter 2 takes us into the realm of relations and functions, where math meets h
 <details>
  <summary><h2>🚸About Chapter 3: Counting and Probability 🎲</h2></summary>
 Now, let's add a dash of excitement with counting and probability! 🎉 We delve into the art of possibilities, counting everything from the number of ways to arrange your closet to the likelihood of rolling a six on a die. It's like being a mathematical fortune teller, predicting outcomes with the mystical power of probability. Who knew counting could be this much fun?
+#
 </details>
 <p> <img align="left" width="50%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLPN_vsFks-WllXxg6IsWWzWMqLQw1GHUQ0w&usqp=CAU" />
 
@@ -26,6 +27,7 @@ Now, let's add a dash of excitement with counting and probability! 🎉 We delve
  <summary><h2>🚸About Chapter 4: Graph Theory 📊</h2></summary>
 
 Our adventure takes a graphical turn in Chapter 4 as we explore graph theory. Graphs are not just for plotting data; they're the heart of connections, friendships, and journeys. Imagine nodes as cities and edges as the roads connecting them. We'll navigate paths, cross bridges, and discover the beauty of connectivity in this mathematical road trip.
+
 </details>
 <p> <img align="left" width="50%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQixLSGNbdD69BHRxlzKqpsOlUtpPEu5yQejg&usqp=CAU" />
 #
