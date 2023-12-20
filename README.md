@@ -8,12 +8,13 @@ In the first chapter of our discrete structures journey, we dive into the intrig
 
 
 
+<details>
+ <summary><h2>🚸About Chapter 2: Relation and Function 🤝🧑‍🏫</h2></summary>
 
-**Chapter 2: Relation and Function 🤝**
 Chapter 2 takes us into the realm of relations and functions, where math meets human connections! Think of functions as matchmakers, linking elements in unique ways. Relations, on the other hand, are the social network connections among elements. It's the math version of "it's not what you know, but who you know." We'll explore how these mathematical friendships play out and lay the groundwork for graph theory.
 
 
-
+#
 
 
 **Chapter 3: Counting and Probability 🎲**
