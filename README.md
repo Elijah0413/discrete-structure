@@ -1,8 +1,6 @@
 
 # Discrete Structure🥳🥳🥳
 
-
-
 <header>
  <details>
  <summary><h2>🚸About Chapter 1: Set Theory 🧑‍🏫</h2></summary>
