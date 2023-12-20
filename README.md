@@ -20,7 +20,10 @@ Chapter 2 takes us into the realm of relations and functions, where math meets h
 Now, let's add a dash of excitement with counting and probability! 🎉 We delve into the art of possibilities, counting everything from the number of ways to arrange your closet to the likelihood of rolling a six on a die. It's like being a mathematical fortune teller, predicting outcomes with the mystical power of probability. Who knew counting could be this much fun?
 #
 </details>
+
+</header>
 ---
+<header>
 <p> <img align="left" width="50%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLPN_vsFks-WllXxg6IsWWzWMqLQw1GHUQ0w&usqp=CAU" />
 
 #
