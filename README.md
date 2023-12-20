@@ -1,28 +1,6 @@
 
 # Discrete Structure🥳🥳🥳
 
-<header>
-<span class="date">October 1 2023</span>
-<h2><a href="#">Discrete Structure ✖️➕➖➗🟰👨‍🔬👩‍🔬<br />
-<a href="https://github.com/Elijah0413/discrete-structure" class="image fit"><img src="C:\tis\webage-portfolio\heppy\images\image4.jpeg" alt="Discrete Structure " /></a>
-</a></h2>
-</header>
-details>
-<summary><h3>🚸About Discrete Structure </h3></summary>
-<p>Imagine discrete structures as the unsung heroes of the tech world, the Avengers of math! 🦸‍♂️<br /> 
-They handle separate values, not the smooth jazz of continuity. 🎷 It's like a rockstar lineup of set theory, logic,<br />
-relations, functions, and graphs – the ultimate math jam! 🎸 Set theory organizes elements, logic figures out the <br />
-gossip,and relations/functions play matchmakers. Graphs paint a masterpiece of these connections. 🎨 Studying discrete structures<br />
-is like an epic quest, the math version of Lord of the Rings! 🧙‍♂️ It's the secret sauce for algorithm design, magic in databases,<br />
-and superhero moves in cryptography. Grab your math cape – discrete structures make math cool! 🚀✨</p>
-
-
-
-
-
-
-
-
 
 
 <header>
@@ -30,7 +8,8 @@ and superhero moves in cryptography. Grab your math cape – discrete structures
  <summary><h2>🚸About Chapter 1: Set Theory 🧑‍🏫</h2></summary>
 **Chapter 1: Set Theory 🧑‍🏫**
  <p> <img align="left" width="50%" src="https://blogassets.leverageedu.com/blog/wp-content/uploads/2020/03/11170948/Set-Theory-Formulas.png" /> </p>
-In the first chapter of our discrete structures journey, we dive into the intriguing world of set theory. Imagine sets as little baskets holding mathematical goodies! 🧺 We explore the basics, from defining what a set is to performing set acrobatics with operations like union and intersection. It's like arranging a mathematical picnic where elements come together, forming relationships that set the stage for our entire adventure.
+
+<p>In the first chapter of our discrete structures journey, we dive into the intriguing world of set theory. Imagine sets as little baskets holding mathematical goodies! 🧺 We explore the basics, from defining what a set is to performing set acrobatics with operations like union and intersection. It's like arranging a mathematical picnic where elements come together, forming relationships that set the stage for our entire adventure.</p>
 
  </details>
 
