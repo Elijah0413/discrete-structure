@@ -21,14 +21,14 @@ Now, let's add a dash of excitement with counting and probability! 🎉 We delve
 </details>
 <p> <img align="left" width="50%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLPN_vsFks-WllXxg6IsWWzWMqLQw1GHUQ0w&usqp=CAU" />
 
-
+#
 <details>
  <summary><h2>🚸About Chapter 4: Graph Theory 📊</h2></summary>
 
 Our adventure takes a graphical turn in Chapter 4 as we explore graph theory. Graphs are not just for plotting data; they're the heart of connections, friendships, and journeys. Imagine nodes as cities and edges as the roads connecting them. We'll navigate paths, cross bridges, and discover the beauty of connectivity in this mathematical road trip.
 </details>
 <p> <img align="left" width="50%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQixLSGNbdD69BHRxlzKqpsOlUtpPEu5yQejg&usqp=CAU" />
-
+#
 
 <details>
  <summary><h2>🚸About Chapter 5: Boolean Algebra and Computer Logic 🕹️</h2></summary>
@@ -39,3 +39,4 @@ Our journey through discrete structures is like building a mathematical masterpi
 
 </details>
 <p> <img align="left" width="50%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8vL7d100YfyQIfbu4R96Fx3Hf_QVCovXgNg&usqp=CAU" />
+#
