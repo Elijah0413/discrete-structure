@@ -23,24 +23,3 @@ Now, let's add a dash of excitement with counting and probability! 🎉 We delve
 
 </header>
 ---
-<header>
-<p> <img align="left" width="50%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLPN_vsFks-WllXxg6IsWWzWMqLQw1GHUQ0w&usqp=CAU" />
-
-#
-<details>
- <summary><h2>🚸About Chapter 4: Graph Theory 📊</h2></summary>
-Our adventure takes a graphical turn in Chapter 4 as we explore graph theory. Graphs are not just for plotting data; they're the heart of connections, friendships, and journeys. Imagine nodes as cities and edges as the roads connecting them. We'll navigate paths, cross bridges, and discover the beauty of connectivity in this mathematical road trip.
-
-</details>
-<p> <img align="left" width="50%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQixLSGNbdD69BHRxlzKqpsOlUtpPEu5yQejg&usqp=CAU" />
-#
-
-<details>
- <summary><h2>🚸About Chapter 5: Boolean Algebra and Computer Logic 🕹️</h2></summary>
-Time to put on our virtual reality headsets and dive into Chapter 5 – the land of Boolean algebra and computer logic. Ever wondered how computers make decisions? Boolean algebra is the secret sauce! We'll decode binary mysteries, play with logic gates, and maybe even teach a computer to appreciate a good joke. After all, a bit of humor is always welcome in the digital world!
-
-Our journey through discrete structures is like building a mathematical masterpiece, one chapter at a time. From the elegance of set theory to the logical dance of Boolean algebra, each section adds a layer of understanding to the vibrant tapestry of discrete mathematics. So, gear up, because we're not just learning; we're creating a symphony of mathematical harmony! 🎶
-
-</details>
-<p> <img align="left" width="50%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8vL7d100YfyQIfbu4R96Fx3Hf_QVCovXgNg&usqp=CAU" />
-<header>
