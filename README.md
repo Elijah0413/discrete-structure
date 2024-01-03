@@ -1,5 +1,6 @@
 
 # Discrete Structure🥳🥳
+# Discrete Structure🥳🥳
 
 <header>
  <details>
