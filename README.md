@@ -1,4 +1,3 @@
-h
 # Discrete Structure🥳
 
 <header>
